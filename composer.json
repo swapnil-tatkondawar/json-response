@@ -1,5 +1,5 @@
 {
-    "name": "swapnil/json_response",
+    "name": "swapnilt/json_response",
     "description": "This module is used simply to get json response based on input",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Swapp\\ResponseClass\\" : "src/"
+            "SwapnilT\\ResponseClass\\" : "src/"
         }
     },
     "license": "MIT",

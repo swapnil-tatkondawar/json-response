@@ -1,6 +1,6 @@
 <?php
 
-namespace Swapp\ResponseClass;
+namespace SwapnilT\ResponseClass;
 
 
 class JsonResponse
