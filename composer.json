@@ -1,0 +1,23 @@
+{
+    "name": "swapnil/json_response",
+    "description": "This module is used simply to get json response based on input",
+    "type": "library",
+    "require": {
+        "php": ">=5.2"
+    },
+    "require-dev": {
+        "filp/whoops": "^2.7"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Swapp\\ResponseClass\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapnil Tatkondawar",
+            "email": "swapnil.tatkondawar@gmail.com"
+        }
+    ]
+}
